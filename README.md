@@ -12,7 +12,8 @@ Moja prosta strona portfolio dostępna na GitHub Pages.
 ## 🚀 Jak to działa?
 
 Ta strona jest hostowana na GitHub Pages. Aby ją zobaczyć, odwiedź:
-- https://smietanp.github.io/piotr-portfolio
+- https://smietanp.github.io
+- https://smietanp.github.io/piotr-portfolio  (przekierowuje do głównej strony)
 
 ## 📝 Jak modyfikować stronę?
 
